@@ -719,11 +719,7 @@ a:focus {
     background-position: -200px 0px;
 }
 #whattodo {
-    background-image:url(whattodo.jpg);
-    background-repeat: no-repeat;
-    
     height: 600px;
-    background-position: 230px 0px;
 }
 .credit {
 	font-size: 40px;
@@ -760,4 +756,12 @@ a:focus {
 
 .incontent {
 	margin-left: 250px;
+}
+
+.imagecredit {
+	margin-top: 5px;
+	text-align: center;
+	vertical-align: bottom;
+	font-size: 14px;
+	color: grey;
 }
